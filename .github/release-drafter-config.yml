@@ -7,7 +7,7 @@ categories:
     collapse-after: 3
   - title: '⚡️ Enhancement'
     labels:
-      - 'feature'
+      - 'enhancement'
     collapse-after: 3
   - title: '🐛 Bug Fixes'
     collapse-after: 3
