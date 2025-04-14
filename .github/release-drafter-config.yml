@@ -32,7 +32,7 @@ autolabeler:
     title:
       - '/feat/i'
       
-  - label: 'fix'
+  - label: 'bug'
     branch:
       - '^DE-\d+\/[Ff][Ii][Xx].*'
     title:
